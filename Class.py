@@ -57,7 +57,7 @@ class people:
 #单继承
 class person(people):
     province = ''
-    def __init__(self,n,a,w,c):
+    def __init__(self,n,a,w,c):  #此处需要按照父类的顺序进行写入，除非使用关键字参数，不然会有问题
         people.__init__(self,n,a,w) # 调用父类
         self.province = c
     #覆写父类的方法
