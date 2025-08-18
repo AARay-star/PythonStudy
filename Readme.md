@@ -1,5 +1,9 @@
 # 研0勇闯Python学习！
 
+2025.8.18\
+SomeSkills.py 下 学习了enumerate的使用。学习了range的使用。
+
+
 2025.8.16\
 Thread.py 下 学习了pass语句，range语句，@xxx装饰器，tying的Optional的使用，信号激活链接函数的使用，以及信号槽的使用。
 整体线程基本逻辑弄懂。
